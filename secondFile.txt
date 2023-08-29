@@ -1,2 +1,6 @@
 this is sec file
 hi
+
+unwanted changes
+
+newline
