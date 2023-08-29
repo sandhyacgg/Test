@@ -2,6 +2,7 @@ class First{
     public static void main(String [] args){
         system.out.println("Heloo");
 	system.out.println("Heloo2");
+	system.out.println("gud mrng");
 	
     }
 }
